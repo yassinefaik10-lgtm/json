@@ -12,8 +12,8 @@
     "ShowAds"      : true,
     "ShowAlert"    : false,
 
-    "AdInterval"   : 1,
-    "AdIntervalBox": 1,
+    "AdInterval"   : 5,
+    "AdIntervalBox": 10,
     "RewardSecondTimer": 120,
 
     "InterstitialNetwork": "admob",
