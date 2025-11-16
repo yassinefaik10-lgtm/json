@@ -1,0 +1,35 @@
+{
+  "AppRedirect": {
+    "status": false,
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars"
+  },
+  "AdsController": {
+    "README": [
+      "To run ads for each network, enter one of this : 'admob' ,'unity' ",
+      "For turn-off adunit : empty the network values"
+    ],
+
+    "ShowAds"      : true,
+    "ShowAlert"    : false,
+
+    "AdInterval"   : 1,
+    "AdIntervalBox": 1,
+    "RewardSecondTimer": 120,
+
+    "InterstitialNetwork": "admob",
+    "RewardNetwork"      : "admob",
+    "FreeBoxNetwork"     : "admob",
+
+    "AdPlacement": {
+      "AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+      "AdMobReward"      : "ca-app-pub-3940256099942544/5224354917",
+
+      "UnityGameId"      : "5140830",
+      "UnityInterstitial": "Interstitial_Android",
+      "UnityReward"      : "Rewarded_Android",
+
+      "onesignalKey": "xxx-xxx-xxx-xxx"
+    }
+  }
+
+}
