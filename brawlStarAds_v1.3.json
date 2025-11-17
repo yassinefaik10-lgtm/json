@@ -21,8 +21,8 @@
     "FreeBoxNetwork"     : "admob",
 
     "AdPlacement": {
-      "AdMobInterstitial": "ca-app-pub-39402560999fghfgh42544/1033173712",
-      "AdMobReward"      : "ca-app-pub-394025609994fghfghgh2544/5224354917",
+      "AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+      "AdMobReward"      : "ca-app-pub-3940256099942544/5224354917",
 
       "UnityGameId"      : "5140830",
       "UnityInterstitial": "Interstitial_Android",
