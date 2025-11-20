@@ -13,7 +13,7 @@
     "ShowAlert"    : false,
 
     "AdInterval"   : 5,
-    "AdIntervalBox": 10,
+    "AdIntervalBox": 5,
     "RewardSecondTimer": 120,
 
     "InterstitialNetwork": "admob",
